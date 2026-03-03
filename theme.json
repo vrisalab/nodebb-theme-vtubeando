@@ -1,0 +1,8 @@
+{
+    "id": "nodebb-theme-vtubeando",
+    "name": "vtubeando",
+    "description": "Tema de los foros vtubeando.net",
+    "url": "https://github.com/vrisalab/nodebb-theme-vtubeando",
+    "screenshot": "screenshot.png",
+    "baseTheme": "nodebb-theme-harmony"
+}
