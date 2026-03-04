@@ -76,7 +76,7 @@
 			{{{ if alternate_logins }}}
 			<div class="col-12 col-md-5 col-lg-3 px-md-0">
 				<div class="alt-login-block d-flex flex-column gap-2">
-					<label>[[login:alternative_logins]]</label>
+					<label>Ingresar con cuenta existente. Para cuentas nuevas, crea tu VTID.</label>
 					<ul class="alt-logins list-unstyled">
 						{{{ each authentication }}}
 						<li class="{./name} mb-2">
